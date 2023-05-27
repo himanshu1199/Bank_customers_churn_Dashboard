@@ -44,6 +44,7 @@ Above is the customer data of account holders at Anonymous Multinational Bank an
 
 - ### Dashboard Making
 
+![Customers churn ( dashboard inside )_page-0001](https://github.com/himanshu1199/Bank_customers_churn_Dashboard/assets/130036773/b3107ee1-7443-4cc1-a5f4-8ca201f36271)
 
 
 
