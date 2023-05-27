@@ -10,7 +10,7 @@ Microsoft Power BI
  
 - ### Data gathering 
 
-  - Dataset which i used is from *Kaggle* [https://www.kaggle.com/datasets/shubham1kumar/usedcar-data](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn) 
+  - Dataset which i used is from *Kaggle* https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn
   - About this file: Every bank wants to hold there customers for sustaining their business and thus this Anonymous Multinational bank.
 Above is the customer data of account holders at Anonymous Multinational Bank and the aim of the data will be predicting the Customer Churn.
   - Initialling Dataset was in csv format
