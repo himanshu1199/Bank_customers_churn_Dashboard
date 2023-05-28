@@ -20,7 +20,7 @@ Above is the customer data of account holders at Anonymous Multinational Bank an
   - Make new modified and Calculated columns ( Using DAX ) 
   - There is no null values and wrong entries, data is clean
 
-- ### Define KPIs 
+- ### Define KPIs and Metrics
 
   - Total active members   
   - Total Complaints 
